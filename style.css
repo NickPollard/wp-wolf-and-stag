@@ -1424,7 +1424,7 @@ blockquote:after,
 
 .widget {
 	/*border-top: 1px solid #1a1a1a;*/
-	margin-bottom: 3.5em;
+	margin-bottom: 2em;
 	padding-top: 1.75em;
 }
 
@@ -2936,7 +2936,7 @@ p > video {
 	}
 
 	.comments-area,
-	.widget,
+	/*.widget,*/
 	.content-bottom-widgets .widget-area {
 		margin-bottom: 5.25em;
 	}
@@ -3150,7 +3150,7 @@ p > video {
 		font-size: 13px;
 		font-size: 0.8125rem;
 		line-height: 1.6153846154;
-		margin-bottom: 3.230769231em;
+		/*margin-bottom: 3.230769231em;*/
 		padding-top: 1.615384615em;
 	}
 
