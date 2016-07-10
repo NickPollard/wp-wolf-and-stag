@@ -801,9 +801,14 @@ a:active {
  * 6.2 - Menus
  */
 
+.social-icons {
+	text-align: center;
+}
+
 .social-icon {
 	width: 2em;
-	margin-left: 1em;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
 }
 
 .site-header-menu {
