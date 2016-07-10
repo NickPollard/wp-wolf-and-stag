@@ -801,6 +801,11 @@ a:active {
  * 6.2 - Menus
  */
 
+.social-icon {
+	width: 64px;
+	height: 64px;
+}
+
 .site-header-menu {
 	display: none;
 	-webkit-flex: 0 1 100%;
