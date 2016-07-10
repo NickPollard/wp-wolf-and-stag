@@ -773,7 +773,7 @@ a:active {
 .logged-in-as a,
 .comment-content a,
 .pingback .comment-body > a,
-.textwidget a,
+/*.textwidget a,*/
 .entry-footer a:hover,
 .site-info a:hover {
 	box-shadow: 0 1px 0 0 currentColor;
@@ -802,8 +802,7 @@ a:active {
  */
 
 .social-icon {
-	width: 1.5em;
-	height: 1.5em;
+	width: 2em;
 }
 
 .site-header-menu {
