@@ -803,6 +803,7 @@ a:active {
 
 .social-icon {
 	width: 2em;
+	margin-left: 1em;
 }
 
 .site-header-menu {
@@ -2478,7 +2479,7 @@ body.search-no-results .page-header {
 .entry-content a img,
 .entry-summary a img,
 .comment-content a img,
-.textwidget a img {
+/*.textwidget a img*/ {
 	display: block;
 }
 
