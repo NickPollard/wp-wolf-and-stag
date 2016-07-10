@@ -4013,5 +4013,11 @@ p > video {
 .menuitem {
 	font-family: "Julius Sans One";
 	display: table-cell;
-	padding-right: 5em;
+	padding-right: 1em;
+}
+/* mobile */
+@media screen and (min-width: 48.9375em) {
+	.menuitem {
+		padding-right: 5em;
+	}
 }
