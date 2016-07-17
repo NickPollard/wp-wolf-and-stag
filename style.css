@@ -1736,6 +1736,7 @@ blockquote:after,
 .post-thumbnail {
 	display: block;
 /*	margin: 0 7.6923% 1.75em;*/
+	margin-bottom: 2em;
 	margin-left: 0px;
 	margin-right: 0px;
 }
