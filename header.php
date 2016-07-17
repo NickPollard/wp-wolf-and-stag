@@ -73,10 +73,7 @@
 					</div><!-- .site-header-menu -->
 				<?php endif; ?>
 				<div class="menubar">
-					<div class="menuitem">Roam</div>
-					<div class="menuitem">Dwell</div>
-					<div class="menuitem">Eat</div>
-					<div class="menuitem">Design</div>
+					<?php do_action('wp_menubar','Top Menu'); ?>
 				</div>
 			</div><!-- .site-header-main -->
 
