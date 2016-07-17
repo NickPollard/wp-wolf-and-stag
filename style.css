@@ -4006,12 +4006,14 @@ p > video {
 }
 
 .menubar {
+	font-family: "Julius Sans One";
 	border-top: 1px solid rgba(0, 0, 0, 0.42);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.42);
 	width: 100%;
 }
 
 .menuitem {
-	font-family: "Julius Sans One";
+	/*font-family: "Julius Sans One";*/
 	display: table-cell;
 	padding-right: 1em;
 }
