@@ -4012,14 +4012,14 @@ p > video {
 	width: 100%;
 }
 
-.menuitem {
+.menubar a {
 	/*font-family: "Julius Sans One";*/
 	display: table-cell;
 	padding-right: 1em;
 }
 /* mobile */
 @media screen and (min-width: 48.9375em) {
-	.menuitem {
+	.menubar a {
 		padding-right: 5em;
 	}
 }
