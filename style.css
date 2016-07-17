@@ -4017,6 +4017,11 @@ p > video {
 	/*font-family: "Julius Sans One";*/
 	display: table-cell;
 	padding-right: 1em;
+	color: #000000;
+}
+
+.menubar a:hover {
+	color: #aa8739;
 }
 /* mobile */
 @media screen and (min-width: 48.9375em) {
