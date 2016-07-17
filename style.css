@@ -2070,9 +2070,11 @@ body:not(.search-results) .entry-summary > :last-child,
 }
 
 .page-header {
-	border-top: 4px solid #1a1a1a;
+	border-top: 1px solid #1a1a1a;
+	border-bottom: 1px solid #1a1a1a;
 	margin: 0 7.6923% 3.5em;
 	padding-top: 1.75em;
+	padding-bottom: 1.75em;
 }
 
 body.error404 .page-header,
@@ -2082,7 +2084,10 @@ body.search-no-results .page-header {
 }
 
 .page-title {
-	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	/*font-family: Montserrat, "Helvetica Neue", sans-serif;*/
+	font-family: "Julius Sans One";
+	font-weight: 400;
+	text-align: center;
 	font-size: 23px;
 	font-size: 3.4375rem;
 	line-height: 1.2173913043;
