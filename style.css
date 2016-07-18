@@ -3419,7 +3419,7 @@ p > video {
 		height: 100%;
 		width: 50%;
 		margin-left: 50%;
-		background: rgba(255, 255, 255, 0.85);
+		background: rgba(249, 249, 249, 0.85);
 		padding: 2em;
 		display: flex;
 	}
@@ -3616,7 +3616,6 @@ p > video {
 	body:not(.search-results).group-blog .byline,
 	body:not(.search-results) .entry-format,
 	body:not(.search-results) .cat-links,
-	body:not(.search-results) .tags-links,
 	body:not(.search-results) article:not(.sticky) .posted-on,
 	body:not(.search-results) article:not(.type-page) .comments-link,
 	body:not(.search-results) article:not(.type-page) .entry-footer .edit-link {
@@ -4033,4 +4032,8 @@ p > video {
 	.menubar a {
 		padding-right: 5em;
 	}
+}
+
+.tags-links {
+	display: none;
 }
